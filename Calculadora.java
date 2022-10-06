@@ -7,6 +7,7 @@ public class Calculadora {
         dividir();
     }
     
+    
      public static void dividir(){
      Scanner teclado = new Scanner(System.in);
      float num1,num2,divide;
